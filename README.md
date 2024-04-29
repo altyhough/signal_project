@@ -1,5 +1,4 @@
-# student id
-i6361902 Anna Ptak 
+
 # Cardio Data Simulator
 
 The Cardio Data Simulator is a Java-based application designed to simulate real-time cardiovascular data for multiple patients. This tool is particularly useful for educational purposes, enabling students to interact with real-time data streams of ECG, blood pressure, blood saturation, and other cardiovascular signals.
@@ -26,7 +25,7 @@ The Cardio Data Simulator is a Java-based application designed to simulate real-
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/tpepels/signal_project.git
+   git clone https://github.com/altyhough/signal_project.git
    ```
 
 2. Navigate to the project directory:
@@ -65,3 +64,6 @@ java -jar target/target/cardio_generator-1.0-SNAPSHOT.jar --patient-count 100 --
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+# student id
+i6361902 Anna Ptak 
